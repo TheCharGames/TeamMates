@@ -1,0 +1,249 @@
+.menu {
+    background-color: #45015d;
+    color: white;
+    width: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    position:fixed ;
+    height: 100%;
+
+}
+
+.menu a {
+    color: white;
+    font-weight: bolder;
+    display: block;
+    margin-bottom: 15px;
+    text-decoration: none;
+}
+
+* {
+    margin: 0;
+
+
+
+
+
+}
+
+.menu h1 {
+    margin-bottom: 20px;
+
+
+
+
+
+
+
+
+
+
+
+
+}
+.menu a:hover{
+color:yellowgreen;
+
+
+
+
+
+
+
+
+
+
+}
+
+.main{
+margin-left: 500px;
+
+
+
+
+
+
+}
+.main h1{
+font-size: 60px;
+
+
+
+
+
+
+
+
+
+
+
+}
+body{
+font-family:"Poppins", sans-serif;
+;
+
+
+
+
+
+
+}
+.showcase img{
+width: 100%;
+border-radius: 60px;
+margin-top:15px ;
+opacity:0.5 ;
+
+}
+.showcase img:hover{
+opacity: 1;
+
+
+
+
+
+
+
+}
+h2{
+color:#45015d ;
+
+
+
+
+
+
+}
+hr{
+border-width: 4px;
+border-color: #45015d;
+border-style: solid;
+border-radius: 50px;
+
+
+
+
+}
+.desc h3{
+color: gray;
+
+
+
+
+}
+.admin{
+display: inline-block;
+width: 30%;
+padding: 15px;
+
+
+
+}
+.admin img{
+width: 100%;
+height: 100px;
+filter: grayscale(20%);
+border-radius:12px ;
+
+
+
+}
+.desc{
+background-color:#f1f1f1;
+padding: 5px;
+
+
+}
+.pack {
+text-align: center;
+
+
+}
+.pack ul{
+list-style: none;
+padding: 0px;
+
+}
+.pack .noname{
+background-color: #45015d;
+border-radius: 15px;
+padding: 25px 0px;
+color: white;
+
+
+}
+.pack li{
+padding: 15px 0px;
+border-bottom: 1px solid gray;
+background-color: #f1f1f1;
+
+
+
+}
+.pack a{
+text-decoration: none;
+background-color: white;
+border-radius: 15px;
+color: #45015d;
+padding: 10px;
+
+
+}
+.pack a:hover{
+color: white;
+background-color: #45015d;
+
+
+
+}
+.contacts a{
+text-decoration: none;
+text-align: center;
+display: block;
+color: white;
+background-color: black;
+padding: 5px;
+width: 200px;
+margin: auto;
+border-radius: 15px;
+}
+.contacts{
+background-color: #f1f1f1;
+margin-bottom: 15px;
+
+
+
+
+
+
+}
+.contacts a:hover{
+background-color: white;
+color: black;
+
+
+}
+label{
+display: block;
+
+}
+input{
+width: 90%;
+padding: 2%;
+text-align: center;
+display: block;
+margin: 10px auto;
+}
+.by{
+padding: 5%;
+background-color: #f1f1f1;
+text-decoration: none;
+position: absolute;
+width: 90%;
+
+}
+.by a{
+text-decoration: none;
+
+
+}
